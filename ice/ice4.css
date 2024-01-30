@@ -1,0 +1,49 @@
+body{
+    background-color: rgb(251, 165, 201);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white
+}
+
+main{
+    text-align: center;
+}
+
+h1{
+    font-size: 3em;
+    font-weight: 900;
+}
+
+h1:hover{
+    color: black
+}
+
+.quote{
+    margin: 2.5em 20% 0 20%;
+}
+
+li{
+    list-style-type: none;
+    text-align: left;
+    margin: 0 0 .9em 20%;
+    color: black;
+    font-weight: 0;
+}
+
+img{
+    width: 20%;
+}
+
+h3{
+    margin: 5% 32% 5% 32%;
+    font-size: 220%;
+    line-height: 150%;
+}
+
+div p{
+    color: black;
+    margin: 0 32% 0 32%;
+}
+
+div{
+    margin-bottom: 5%;
+}
