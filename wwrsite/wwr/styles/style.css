@@ -1,0 +1,62 @@
+.logo{
+    max-width: 200px;
+}
+
+#content{
+    max-width: 1600px;
+    margin: 0 auto;
+}
+
+nav a{
+    text-align: center;
+}
+
+#hero-msg h1, #hero-msg h4{
+    text-align: center;
+}
+
+.button-box{
+    text-align: center;
+}
+
+main section{
+    text-align: center;
+}
+
+#background{
+    height: 725px;
+}
+
+body {
+    background-color: #5CE1E6; 
+}
+header {
+    background-color:white;
+}
+nav a:hover {
+    background-color: #5CE1E6;
+}
+
+.book{
+    background-color: #5CE1E6;
+}
+
+.join{
+    background-color: #737373;
+}
+
+.book:hover, .join:hover{
+    background-color: #737373;
+}
+
+#background{
+    background-color: #737373;
+}
+
+.msg{
+    background-color: #737373;
+}
+
+footer{
+    background-color: white;
+}
