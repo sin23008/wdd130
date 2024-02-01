@@ -8,7 +8,7 @@
 }
 
 body {
-    background-color: #5CE1E6; 
+    background-color: #004AAD; 
 }
 
 header {
@@ -23,7 +23,7 @@ nav a{
 
 nav a:hover {
     color: #737373;
-    background-color: #5CE1E6;
+    background-color: #004AAD;
 }
 
 #hero-msg h1, #hero-msg h4{
@@ -31,15 +31,15 @@ nav a:hover {
 }
 
 .home-title{
-    color: #004AAD;
+    color: #5CE1E6;
 }
 
 h4{
-    color: #004AAD;
+    color: #5CE1E6;
 }
 
 section h2{
-    color: #004AAD;
+    color: #5CE1E6;
 }
 .icon{
     width: 80px;
@@ -57,8 +57,8 @@ main section{
 }
 
 .book{
-    background-color: #5CE1E6;
-    color: #004AAD;
+    background-color: #004AAD;
+    color: #5CE1E6;
     text-decoration: none;
 }
 
