@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+}
+
+div {
+    background-color: grey;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.top {
+    margin: 0 auto;
+    display: block;
+    width: 85em;
+}
+
+.circle {
+    border-radius: 50%;
+    max-width: 25%;
+    margin: 2%;
+    text-align: center;
+    border: 2em solid rgb(81, 75, 75);
+    align-self: center;
+}
