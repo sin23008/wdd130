@@ -275,7 +275,7 @@ footer .social img{
 }
 
 .blog-img-1:hover{
-    transform: scale(150%) translate(10%, 0);
+    transform: scale(1.5) translate(10%, 0);
     transition: .5s;
     
 }
@@ -331,7 +331,7 @@ footer .social img{
 }
 
 .blog-img-3:hover{
-    transform: scale(150%) translate(-10%, 10%);
+    transform: scale(1.5) translate(-10%, 10%);
     transition: .5s;
     
 }
